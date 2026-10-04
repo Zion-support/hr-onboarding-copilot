@@ -1,23 +1,32 @@
-# 🚀 Zion HR Onboarding Copilot
+# 🧭 HR Onboarding Copilot
 
-Automated onboarding journeys, checklists and new-hire nudges. Part of the **Zion HR & Workforce AI Suite (Batch 72)**.
+Guided new-hire onboarding — part of the **Zion Tech Group AI App Network** (320+ free flagship apps).
+
+- 🌐 Live app: https://ziontechgroup.com/hr-onboarding-copilot/
+- 🧭 Free Discovery (online & free, instant results emailed to you): https://ziontechgroup.com/discovery/
+- 🗂️ Network hub: https://github.com/Zion-support/zion-network · Showcase: https://ziontechgroup.com/apps/network.html
 
 ## What it does
-- Generates role-specific onboarding plans (30/60/90) in seconds
-- Orchestrates tasks across IT, HR, manager and buddy
-- Answers new-hire questions from your policies (RAG)
-- Tracks completion and time-to-productivity
+Personalized onboarding journeys, document automation, buddy assignment and 30/60/90 progress tracking. Receives new hires directly from [Recruiting Screening AI](https://github.com/Zion-support/recruiting-screening-ai) and monitors early engagement with [Employee Sentiment Pulse](https://github.com/Zion-support/employee-sentiment-pulse).
 
 ## Key features
-- Integrations: HRIS (BambooHR, Workday), Slack/Teams, IT ticketing
-- Preboarding flows: paperwork, equipment, accounts before day 1
-- Quality signals from [Employee Sentiment Pulse](https://github.com/Zion-support/employee-sentiment-pulse)
-- Candidate handoff from [Recruiting Screening AI](https://github.com/Zion-support/recruiting-screening-ai)
+- Role-based journey templates with task automation
+- E-signature and document collection workflows
+- 30/60/90 dashboards, HRIS/IT provisioning connectors
 
-## 🔗 Zion App Network
-- Suite hub: [zion-network](https://github.com/Zion-support/zion-network) · [network.json](https://github.com/Zion-support/zion-network/blob/main/network.json)
-- Sister apps: [Recruiting Screening AI](https://github.com/Zion-support/recruiting-screening-ai) · [Employee Sentiment Pulse](https://github.com/Zion-support/employee-sentiment-pulse) · [Shift Scheduler AI](https://github.com/Zion-support/shift-scheduler-ai)
-- 🌐 [ziontechgroup.com](https://ziontechgroup.com) · [Plans](https://ziontechgroup.com/plans/) · [Discovery call ($99)](https://ziontechgroup.com/discovery/)
+## HR & Workforce AI suite (Batch 72)
+| App | Focus |
+|---|---|
+| [Shift Scheduler AI](https://github.com/Zion-support/shift-scheduler-ai) | Fair, compliant scheduling |
+| [Recruiting Screening AI](https://github.com/Zion-support/recruiting-screening-ai) | Bias-aware candidate screening |
+| [Employee Sentiment Pulse](https://github.com/Zion-support/employee-sentiment-pulse) | Engagement analytics |
+| **HR Onboarding Copilot** (this repo) | Guided onboarding |
 
-## License
-MIT — © Zion Tech Group
+## Adjacent suites
+- **Energy & Facilities AI:** [Energy Consumption Forecaster](https://github.com/Zion-support/energy-consumption-forecaster) · [Solar ROI Optimizer](https://github.com/Zion-support/solar-roi-optimizer) · [Grid Demand Balancer](https://github.com/Zion-support/grid-demand-balancer) · [Building Efficiency Auditor](https://github.com/Zion-support/building-efficiency-auditor)
+- **ITOps AI:** [AI Infrastructure Monitor](https://github.com/Zion-support/ai-infrastructure-monitor) · [AI Capacity Planner](https://github.com/Zion-support/ai-capacity-planner) · [AI Cluster Manager](https://github.com/Zion-support/ai-cluster-manager) · [AI Backup Integrity](https://github.com/Zion-support/ai-backup-integrity)
+
+---
+- 🏠 https://ziontechgroup.com · 💰 Plans: https://ziontechgroup.com/en/plans/ · 💼 commercial@ziontechgroup.com
+
+© 2026 Zion Tech Group — MIT
